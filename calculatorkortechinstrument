@@ -1,116 +1,88 @@
-# Privacy Policy for Calculator App
+Privacy Policy for Calculator
+Effective Date: November 2, 2025
+Last Updated: November 5, 2025
 
-**Effective Date:** November 2, 2025  
-**Last Updated:** November 2, 2025
+Introduction
+Thank you for using Calculator ("we," "our," or "the App"). This Privacy Policy explains how we handle information when you use our calculator application on Android devices.
+Information We Collect
+Information We Collect Directly
+Our Calculator is designed with your privacy in mind. We DO NOT directly collect, store, or transmit:
 
-## Introduction
+Personal identification information (name, email, phone number, etc.)
+Calculation history or data
+Location data
 
-Thank you for using Calculator App ("we," "our," or "the App"). This Privacy Policy explains how we handle information when you use our calculator application on Android devices.
-
-## Information We Collect
-
-### Information We Collect Directly
-
-Our Calculator App is designed with your privacy in mind. We **DO NOT** directly collect, store, or transmit:
-
-- Personal identification information (name, email, phone number, etc.)
-- Calculation history or data
-- Location data
-
-### Information Collected by Third-Party Services
-
+Information Collected by Third-Party Services
 Our app displays advertisements through third-party advertising partners. These partners may automatically collect certain information to provide personalized ads and improve their services:
+Google AdMob may collect:
 
-**Google AdMob (or your ad network) may collect:**
-- Advertising ID (a unique, user-resettable ID for advertising)
-- Device information (device model, operating system version)
-- IP address (approximate location)
-- App usage data and interactions with ads
-- Technical information (screen size, language settings)
+Advertising ID (a unique, user-resettable ID for advertising)
+Device information (device model, operating system version)
+IP address (approximate location)
+App usage data and interactions with ads
+Technical information (screen size, language settings)
 
-**Note:** You can opt-out of personalized advertising by:
-- Going to your device Settings → Google → Ads → Opt out of Ads Personalization
-- Or using your device's advertising ID reset feature
+Note: You can opt-out of personalized advertising by:
 
-### Permissions
+Going to your device Settings → Google → Ads → Opt out of Ads Personalization
+Or using your device's advertising ID reset feature
 
+Permissions
 Our app may request the following permissions:
 
-- **INTERNET** - Required to display advertisements
-- **ACCESS_NETWORK_STATE** - To check internet connectivity for ads
+INTERNET - Required to display advertisements
+ACCESS_NETWORK_STATE - To check internet connectivity for ads
 
-## How We Use Information
-
+How We Use Information
 We do not directly use any personal information. However, our third-party advertising partners use the information they collect to:
 
-- Display relevant advertisements
-- Measure ad performance and engagement
-- Prevent fraud and improve ad quality
-- Provide analytics to advertisers
+Display relevant advertisements
+Measure ad performance and engagement
+Prevent fraud and improve ad quality
+Provide analytics to advertisers
 
 All advertising data is processed by our advertising partners according to their own privacy policies.
+Data Storage
+All calculations performed in the app are processed locally on your device and are not stored permanently. When you close the app, calculation history (if displayed during the session) is automatically cleared.
+Third-Party Services
+Our Calculator integrates with the following third-party services:
+Advertising Networks
+We use Google AdMob to display advertisements. AdMob may use cookies and similar technologies to collect information for ad personalization and measurement.
+AdMob Privacy Policy: https://policies.google.com/privacy
+AdMob Partners: https://support.google.com/admob/answer/9012903
+Other Third-Party Services
+Our app does not integrate with:
 
-## Data Storage
+Analytics services beyond what's provided by ad networks
+Social media platforms
+Cloud storage services
 
-All calculations performed in the app are processed locally on your device and are **not stored** permanently. When you close the app, calculation history (if displayed during the session) is automatically cleared.
-
-## Third-Party Services
-
-Our Calculator App integrates with the following third-party services:
-
-### Advertising Networks
-
-We use **Google AdMob** (or specify your ad network) to display advertisements. AdMob may use cookies and similar technologies to collect information for ad personalization and measurement.
-
-**AdMob Privacy Policy:** https://policies.google.com/privacy  
-**AdMob Partners:** https://support.google.com/admob/answer/9012903
-
-### Other Third-Party Services
-
-Our app does **not** integrate with:
-- Analytics services beyond what's provided by ad networks
-- Social media platforms
-- Cloud storage services
-
-**Important:** We do not control and are not responsible for the privacy practices of third-party advertising networks. We encourage you to review their privacy policies.
-
-## Children's Privacy
-
+Important: We do not control and are not responsible for the privacy practices of third-party advertising networks. We encourage you to review their privacy policies.
+Children's Privacy
 Our app is suitable for users of all ages. However, we are committed to protecting children's privacy:
 
-- We do not knowingly collect personal information from children under 13
-- Our advertising partners comply with COPPA (Children's Online Privacy Protection Act)
-- Ads shown to children are non-personalized and age-appropriate
+We do not knowingly collect personal information from children under 13
+Our advertising partners comply with COPPA (Children's Online Privacy Protection Act)
+Ads shown to children are non-personalized and age-appropriate
 
-**For parents:** If you believe your child has provided personal information through our app, please contact us immediately, and we will work to have it removed.
+For parents: If you believe your child has provided personal information through our app, please contact us immediately, and we will work to have it removed.
 
-## Data Security
-
+Data Security
 Since no data is collected or transmitted from your device, there are no security concerns related to data breaches or unauthorized access to your information.
-
-## Changes to This Privacy Policy
-
+Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. Any changes will be reflected by updating the "Last Updated" date at the top of this policy. We encourage you to review this policy periodically.
 
-## Your Rights
-
+Your Rights
 Since we do not collect any personal data, there is no user data to access, modify, or delete.
 
-## International Users
-
+International Users
 This app can be used globally. As we do not collect any data, international data transfer regulations do not apply.
 
-## Contact Us
-
+Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Email:** kortechinstrument@gmail.com  
-**Developer:** Kortech Instrument
+Email: kortechinstrument@gmail.com
+Developer: Kortech Instrument
 
-## Consent
-
-By using our Calculator App, you consent to this Privacy Policy.
-
----
-
-**Summary:** This calculator app respects your privacy completely. We do not collect, store, share, or transmit any of your data. All calculations are performed locally on your device.
+Consent
+By using our Calculator, you consent to this Privacy Policy.
